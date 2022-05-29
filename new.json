@@ -2,9 +2,9 @@
 	"person":{
 	"first name":"Tatsiana",
 	"last name":"Vasilchik",
-	"age":41,
+	"age":41
+	},
 	"pets":"cat",
 	"salary":"3500euro"
-	}
 }
 
